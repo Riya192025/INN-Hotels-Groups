@@ -1,5 +1,6 @@
 # INN-Hotels-Groups
 1.1Context
+
 A significant number of hotel bookings are called off due to cancellations or no-shows. The typical reasons for 
 cancellations include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free 
 of charge or preferably at a low cost which is beneficial to hotel guests but it is a less desirable and possibly revenuediminishing factor for hotels to deal with. Such losses are particularly high on last-minute cancellations.
@@ -11,7 +12,9 @@ The cancellation of bookings impact a hotel on various fronts:
 2. Additional costs of distribution channels by increasing commissions or paying for publicity to help sell these rooms.
 3. Lowering prices last minute, so the hotel can resell a room, resulting in reducing the profit margin.
 4. Human resources to make arrangements for the guests.
+
 1.2 Objective
+
 The increasing number of cancellations calls for a Machine Learning based solution that can help in predicting which 
 booking is likely to be canceled. INN Hotels Group has a chain of hotels in Portugal, they are facing problems with 
 the high number of booking cancellations and have reached out to your firm for data-driven solutions. You as a data 
@@ -20,7 +23,9 @@ build a predictive model that can predict which booking is going to be canceled 
 profitable policies for cancellations and refunds.
 1.3 Data Description
 The data contains the different attributes of customers' booking details. The detailed data dictionary is given below.
+
 Data Dictionary:
+
 • Booking_ID: the unique identifier of each booking
 • no_of_adults: Number of adults
 • no_of_children: Number of Children
